@@ -34,7 +34,7 @@ function show(data) {
 		let tab =
 
 		`
-		<table id="table">
+		<table class="table">
 		<tr>
 		<th><img id="image" src="https://avatars.githubusercontent.com/u/93755781?v=4"" alt="profile"></img></th>
 		
